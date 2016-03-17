@@ -1,0 +1,11 @@
+1. express
+  - rapid server development
+
+1. mongodb overview
+  - document/noSQL database (as opposed to table/SQL database)
+2. mongojs mention
+  - lighter library for use with mongodb
+3. mongoose
+  - better tooling, documentation is (sorta) better, feels more mature
+
+Quick overview of the code (insert comments for easier reading)

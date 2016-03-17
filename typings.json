@@ -1,0 +1,11 @@
+{
+  "ambientDependencies": {
+    "body-parser": "registry:dt/body-parser#0.0.0+20160112113357",
+    "express": "registry:dt/express#4.0.0+20160208031452",
+    "helmet": "registry:dt/helmet#0.0.0+20160112163250",
+    "mime": "registry:dt/mime#0.0.0+20151204023458",
+    "mongoose": "registry:dt/mongoose#3.8.5+20160209123716",
+    "node": "registry:dt/node#4.0.0+20160226132328",
+    "serve-static": "registry:dt/serve-static#1.7.1+20160104095738"
+  }
+}
